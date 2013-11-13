@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Assembler_ReverseString", "Assembler_ReverseString\Assembler_ReverseString.asmproj", "{489C9912-F5F4-4F53-9490-47EFDA3E744A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489C9912-F5F4-4F53-9490-47EFDA3E744A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{489C9912-F5F4-4F53-9490-47EFDA3E744A}.Debug|AVR.Build.0 = Debug|AVR
+		{489C9912-F5F4-4F53-9490-47EFDA3E744A}.Release|AVR.ActiveCfg = Release|AVR
+		{489C9912-F5F4-4F53-9490-47EFDA3E744A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

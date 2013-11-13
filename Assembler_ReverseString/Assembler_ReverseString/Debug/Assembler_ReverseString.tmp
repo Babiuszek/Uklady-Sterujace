@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Atmel_Studio_6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Assembler_ReverseString.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Atmel_Studio_6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Debug/Assembler_ReverseString.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Debug/Assembler_ReverseString.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Debug\Assembler_ReverseString.map</FILE>
+  <FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Debug\Assembler_ReverseString.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MyString><FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Assembler_ReverseString.asm</FILE><LINE>17</LINE></MyString>
+  <copy><FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Assembler_ReverseString.asm</FILE><LINE>31</LINE></copy>
+  <repeat><FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Assembler_ReverseString.asm</FILE><LINE>47</LINE></repeat>
+  <repeat2><FILE>C:\Users\kmk\Documents\Atmel Studio\Assembler_ReverseString\Assembler_ReverseString\Assembler_ReverseString.asm</FILE><LINE>60</LINE></repeat2>
+ </LABELS>
+</ASSEMBLER_INFO>
